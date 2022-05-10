@@ -1,0 +1,18 @@
+:root {
+    --primary-color: rgb(17, 86, 102);
+    --primary-color-darker: rgb(9, 48, 56);
+}
+
+body{
+    background-color: var(--primary-color-darker);
+}
+
+.container{
+    background-color: aliceblue;
+    padding: 3rem;
+
+}
+
+h1{
+    justify-content: center;
+}
